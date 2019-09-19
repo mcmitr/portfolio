@@ -1,3 +1,0 @@
-Please select all cells that are less than or equal to 5.
-Please select all cells that are greater than 8.
-Please select all cells that are greater than 10.

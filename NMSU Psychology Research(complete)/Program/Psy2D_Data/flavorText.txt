@@ -1,0 +1,4 @@
+Welcome to the International Space Shuttle! Several maintenance tasks are awaiting your attention, please begin by repairing a server error in the communication network.
+The temperature has lowered slightly in one of the central laboratories. Please run the outer shell repair program.
+Unable to locate StartUp.exe under the Water Purification system, please start up the system manually.
+Maintenace tasks complete. Well done! Please let a tech know that you are complete for the day.

@@ -1,0 +1,3 @@
+Please select all cells that are equal to 10.
+Please select all cells that are equal to 4.
+Please select all cells that are equal to 7.

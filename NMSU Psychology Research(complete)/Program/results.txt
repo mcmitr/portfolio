@@ -1,0 +1,9 @@
+NEW SESSION 
+------------------------
+Participant: aDSWD
+NEW SESSION 
+------------------------
+Participant: a
+Normal Matrix: 1
+Total Number of Errors: 0
+Time for Completion: 0.6480016 minutes 
